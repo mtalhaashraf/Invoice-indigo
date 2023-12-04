@@ -1,1 +1,1 @@
-# Invoice-indigo
+# indigo-invoice
